@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(240, 234, 225);
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid whitesmoke;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 4px 5px 1px #c8c2c2;
+  border-radius: 25px;
+}
+.div {
+  display: flex;
+  padding-left: 175px;
+}
+#email {
+  width: 50%;
+}
+.btn-primary {
+  margin-top: 13px;
+}
